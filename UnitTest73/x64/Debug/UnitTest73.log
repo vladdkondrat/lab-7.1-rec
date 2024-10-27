@@ -1,0 +1,5 @@
+﻿  UnitTest73.cpp
+C:\АП\Лаби АП\lab 7.1 rec\lab 7.1 rec.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest73.cpp')
+  
+  UnitTest73.vcxproj -> C:\АП\Лаби АП\lab 7.1 rec\x64\Debug\UnitTest73.dll
